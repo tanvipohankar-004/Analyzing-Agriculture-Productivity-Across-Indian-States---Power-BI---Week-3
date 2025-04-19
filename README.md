@@ -22,3 +22,7 @@ This Power BI project analyzes agricultural productivity across Indian states, f
 - Pie charts for fertilizer usage by state and crop.
 - Key Influencers analysis on fertilizer usage.
 - Filters for interactive exploration.
+
+## 📸 Solution Screenshot
+![Power BI Dashboard Screenshot](https://github.com/tanvipohankar-004/Analyzing-Agriculture-Productivity-Across-Indian-States---Power-BI---Week-3/blob/main/pbix_edunet_week3.png)
+
